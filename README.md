@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="docs/images/logo.png" width="120" alt="Neural VR logo">
-</p>
+  <img width="2376" height="1008" alt="ddeee" src="https://github.com/user-attachments/assets/631b1d72-0f54-4520-9d61-7c11929d7770" />
+  </p>
 
 <h1 align="center">Neural VR</h1>
 
@@ -17,6 +17,16 @@ Neural VR puts **NVIDIA DLSS 5 neural rendering** on the picture inside your
 headset, in almost any VR game or VR mod. It also adds **post-processing** and
 **frame generation**, each of which works with or without DLSS 5.
 Only the images sent to the headset are changed. Your desktop is never touched.
+
+<img width="2293" height="1192" alt="2026-11-17 19_51_00-Neural Rendering VR — DLSS 5 for VR" src="https://github.com/user-attachments/assets/82a5bf54-5a4d-4e11-b007-d14322fe1460" />
+
+![Uploading xrbridgehost_2026-11-17_00-08-15_left.png…]()
+<img width="3458" height="2502" alt="judgment_2026-11-11_00-13-08_left" src="https://github.com/user-attachments/assets/817cd1fa-c067-430c-9dc5-a1e337fe9ab8" />
+<img width="3114" height="2544" alt="cyberpunk2077_2026-11-10_01-05-14_left" src="https://github.com/user-attachments/assets/87ea7fcf-057d-411e-98ff-f5169d53100b" />
+
+<img width="2736" height="2235" alt="crimsondesert_2026-11-09_00-17-31_left" src="https://github.com/user-attachments/assets/e2a9fe53-8c52-4c04-ab4d-e4240cf746db" />
+
+
 
 | | Feature | What you get |
 |---|---|---|
