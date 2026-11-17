@@ -20,7 +20,7 @@ Only the images sent to the headset are changed. Your desktop is never touched.
 
 <img width="2293" height="1192" alt="2026-11-17 19_51_00-Neural Rendering VR — DLSS 5 for VR" src="https://github.com/user-attachments/assets/82a5bf54-5a4d-4e11-b007-d14322fe1460" />
 
-![Uploading xrbridgehost_2026-11-17_00-08-15_left.png…]()
+<img width="3420" height="2668" alt="xrbridgehost_2026-11-17_00-07-49_left" src="https://github.com/user-attachments/assets/6a1cfe2a-22d1-4ab6-bb36-ffe9310e8770" />
 <img width="3458" height="2502" alt="judgment_2026-11-11_00-13-08_left" src="https://github.com/user-attachments/assets/817cd1fa-c067-430c-9dc5-a1e337fe9ab8" />
 <img width="3114" height="2544" alt="cyberpunk2077_2026-11-10_01-05-14_left" src="https://github.com/user-attachments/assets/87ea7fcf-057d-411e-98ff-f5169d53100b" />
 
