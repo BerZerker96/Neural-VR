@@ -32,7 +32,7 @@ Only the images sent to the headset are changed. Your desktop is never touched.
 |---|---|---|
 | 🧠 | **DLSS 5 in VR** | Neural rendering on each eye. It is foveated: full quality where you look, lighter at the edges. |
 | 🎨 | **Post-processing** | Sharpening, fine detail, SMAA, bloom, dehaze and colour. |
-| 🎞️ | **Frame generation** | 2x, 3x, 4x or Adaptive, with FidelityFX-style flow, RIFE or DLSS Gen. Supports AER mods. |
+| 🎞️ | **Frame generation** | 2x, 3x, 4x or Adaptive, with FidelityFX-style flow, or DLSS Gen. Supports AER mods. |
 | 👁️ | **Game foveation** | The game shades less outside the fovea (VRS), so it runs faster. |
 | 🎥 | **Camera & fill** | Move the game's centre, and fill the black area around the image. |
 | 🕶️ | **In-headset panel** | Press **F12** to change everything without taking the headset off. |
@@ -62,7 +62,6 @@ Display → Graphics), followed by a reboot.
 
 **3 · Frame generation (optional)**
 In the Layer Installer:
-- **Install RIFE** downloads the RIFE 4.6 model. It works on any GPU.
 - **Download DLSS Gen** fetches NVIDIA's `nvngx_dlssg.dll` from their
   Streamline SDK. It needs an RTX 40 or 50 GPU.
 
